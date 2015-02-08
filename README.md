@@ -1,12 +1,11 @@
 Entrepreneurial Design 2012
 ===========================
 
-* syllabus.md - *readings, schedule, coursework, assignments*
-* tools.md - *teaching tools used in the program*
-* timeline.md - *blog posts from instructors and students*
-* projects.md - *list of student projects*
-
-## Team ##
+**Course Materials**
+* syllabus.md - *readings, schedule, coursework, assignments*  
+* tools.md - *teaching tools used in the program*  
+* timeline.md - *blog posts from instructors and students*  
+* projects.md - *list of student projects*  
 
 **Instructors**
 * [Christina Cacioppo](http://christinacacioppo.com)  
