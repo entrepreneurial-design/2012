@@ -14,12 +14,8 @@ Entrepreneurial Design 2012
 **TA**  
 * [Catherine Young](http://theperceptionalist.com/)  
 
-## Fork the course ##
-
 If you would like advice on forking the course or have questions on the material, post an issue:
 <https://github.com/entrepreneurial-design/overview/issues>
-
-## License ##
 
 All course materials are licensed under a [Creative Commons Attribution-NonCommercial 4.0 Unported License](http://creativecommons.org/licenses/by-nc/4.0/).
 
